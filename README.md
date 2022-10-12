@@ -1,4 +1,4 @@
 # FlutterLoginScreenDesign
-![UnlimitedAccessPage](https://user-images.githubusercontent.com/97750042/195397011-a43b041c-b459-4052-a7a9-70ddeeaa5ff3.png)
-![FirstPage](https://user-images.githubusercontent.com/97750042/195397018-d8d34dc5-1866-4aa7-864a-273c348d585e.png)
-![LoginScreen](https://user-images.githubusercontent.com/97750042/195397023-d8b103b3-3d48-4e08-9e18-6f7ae1315ade.png)
+![UnlimitedAccessPage](https://user-images.githubusercontent.com/97750042/195397409-d199ab53-b755-48ea-a058-c51de2997dfd.png| width=100)
+![FirstPage](https://user-images.githubusercontent.com/97750042/195397420-3bffaad3-4e73-4ea6-b2dc-98dc575a815c.png | width=100)
+![LoginScreen](https://user-images.githubusercontent.com/97750042/195397424-1c0e08e7-1390-40d3-8ca0-3ec163786a9b.png| width=100)
